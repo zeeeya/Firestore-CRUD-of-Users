@@ -6,11 +6,12 @@
 export const environment = {
   production: false,
   firebase: {
-  	apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
+  	apiKey: "AIzaSyDZMr9fqqrjcAZPBPrR4ohroVGhw3XlGno",
+    authDomain: "firestore-crud-of-users-84f0b.firebaseapp.com",
+    databaseURL: "https://firestore-crud-of-users-84f0b.firebaseio.com",
+    projectId: "firestore-crud-of-users-84f0b",
     storageBucket: "",
-    messagingSenderId: ""
+    messagingSenderId: "12051594985"
+
   }
 };

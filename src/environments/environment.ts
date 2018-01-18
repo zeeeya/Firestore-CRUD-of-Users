@@ -6,11 +6,12 @@
 export const environment = {
   production: false,
   firebase: {
-  	apiKey: "",
-    authDomain: "",
-    databaseURL: "",
-    projectId: "",
-    storageBucket: "",
-    messagingSenderId: ""
+  	 apiKey: "AIzaSyD4ZHoX1mWgJ-swiJXd_6NWFgn61KMUlmo",
+    authDomain: "friendlychat-14713.firebaseapp.com",
+    databaseURL: "https://friendlychat-14713.firebaseio.com",
+    projectId: "friendlychat-14713",
+    storageBucket: "friendlychat-14713.appspot.com",
+    messagingSenderId: "522823638629"
+
   }
 };
